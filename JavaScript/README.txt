@@ -4,3 +4,4 @@ Problem list:
 3. factorial
 4. regrex1
 5. Conditional Statements: Switch
+6. secondLargest

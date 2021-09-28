@@ -5,5 +5,6 @@ Problem list:
 4. regrex1
 5. Conditional Statements: Switch
 6. secondLargest
-7. inheritance
-8. classes
+7. count objects
+8. inheritance
+9. classes
